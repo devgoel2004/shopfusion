@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopfusion/static/css/main.055c35e3.css",
+    "main.js": "/shopfusion/static/js/main.6fd078e1.js",
+    "static/media/ecommerce.png": "/shopfusion/static/media/ecommerce.ab63682228adb54250c7.png",
+    "static/media/Profile.png": "/shopfusion/static/media/Profile.697fdcd21f6d157b9073.png",
+    "static/media/redux.cjs": "/shopfusion/static/media/redux.7edfc461ab353f1712ab.cjs",
+    "index.html": "/shopfusion/index.html",
+    "main.055c35e3.css.map": "/shopfusion/static/css/main.055c35e3.css.map",
+    "main.6fd078e1.js.map": "/shopfusion/static/js/main.6fd078e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.055c35e3.css",
+    "static/js/main.6fd078e1.js"
+  ]
+}
