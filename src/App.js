@@ -82,7 +82,7 @@ function App() {
             path="/shopfusion/password/reset/:token"
             element={<ResetPassword />}
           />
-          <Route path="*" element={<Error />} />
+          <Route path="/shopfusion/*" element={<Error />} />
           <Route path="/shopfusion/cart" element={<Cart />} />
           <Route
             path="/shopfusion/shipping"
